@@ -6,7 +6,7 @@ import { Input } from "../ui/input";
 import { Button } from "../ui/button";
 
 
-export const SiginForm = () => {
+export const SigninForm = () => {
 
     const router = useRouter();
 
